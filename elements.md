@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Elements
 description: Lorem ipsum dolor est
 image: assets/images/parrot.jpg
