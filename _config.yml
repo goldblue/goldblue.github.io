@@ -20,15 +20,15 @@ tiles-count: 6
 
 # social settings
 500px_url:
-facebook_url:
+facebook_url: https://www.facebook.com/goldbluesupercar/
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url:
+youtube_url: https://www.youtube.com/channel/UC1zc1xfeJUTi6_eKH4SPNFg?view_as=subscriber
+instagram_url: https://www.instagram.com/gold_blue_supercar/
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+blog_url: https://blog.naver.com/qkrtjdwls605
 
 # build settings
 markdown: kramdown
