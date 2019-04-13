@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Parrots
-description: test
+description: This is Parrots page.
 image: assets/images/parrot.jpg
 nav-menu: true
 ---
