@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Elements
+title: Parrtos
 description: Lorem ipsum dolor est
 image: assets/images/parrot.jpg
 nav-menu: true
