@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: parrtos
 title: Parrots
 description: This is Parrots page.
 image: assets/images/parrot.jpg
