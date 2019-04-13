@@ -1,7 +1,7 @@
 ---
-layout: parrtos
+layout: post
 title: Parrots
-description: This is Parrots page.
+description: Lorem ipsum dolor est
 image: assets/images/parrot.jpg
 nav-menu: true
 ---
