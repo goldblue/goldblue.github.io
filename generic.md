@@ -20,3 +20,39 @@ nav-menu: true
 
 저희 Gold Blue 의 '골드 블루 슈퍼카 ' 는 차량 A/S 와 관련하여 각 브랜드의 본사와 제휴 관계를 맺고 있습니다.  
 각 브랜드 본사가 제공하는 Worldwide Warranty 시스템을 기반으로 그들과 제휴 관계를 맺고 있을 뿐 아니라 수리 업체들과의 제휴 관계로 2년/ 4만 km 의 무상 보증을 해드리는 것을 기본으로 하고 있습니다.
+
+<h4>Definition</h4>
+<dl>
+	<dt>Item1</dt>
+	<dd>
+		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+	</dd>
+	<dt>Item2</dt>
+	<dd>
+		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+	</dd>
+	<dt>Item3</dt>
+	<dd>
+		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+	</dd>
+</dl>
+
+<h3>Image</h3>
+
+<h4>Fit</h4>
+<span class="image fit"><img src="assets/images/pic03.jpg" alt="" /></span>
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
+		<!-- Break -->
+		<div class="4u"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
+		<!-- Break -->
+		<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
+	</div>
+</div>
