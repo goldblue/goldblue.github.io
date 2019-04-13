@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Parrots
-description: 앵무새
+description: test
 image: assets/images/parrot.jpg
 nav-menu: true
 ---
