@@ -24,7 +24,7 @@ nav-menu: true
 <h3>Image</h3>
 
 <h4>Fit</h4>
-<span class="image fit"><img src="assets/images/pic03.jpg" alt="" /></span>
+<span class="image fit"><img src="assets/images/rolls-royce.jpg" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
