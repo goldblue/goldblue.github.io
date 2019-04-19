@@ -2811,11 +2811,11 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 5):before {
-				background-color: #FDD999;
+				background-color: #F9D090;
 			}
 
 			.tiles article:nth-child(6n - 4):before {
-				background-color: #1462b4;
+				background-color: #095099;
 			}
 
 			.tiles article:nth-child(6n - 3):before {
