@@ -1,6 +1,6 @@
 ---
 title: About Gold Blue
-layout: landing
+layout: post
 description: "회사소개"
 image: assets/images/pic07.jpg
 nav-menu: true
