@@ -22,11 +22,10 @@ nav-menu: true
 각 브랜드 본사가 제공하는 Worldwide Warranty 시스템을 기반으로 그들과 제휴 관계를 맺고 있을 뿐만 아니라 수리 업체들과의 제휴 관계로 2년/4만km의 무상 보증을 해드리는 것을 기본으로 하고 있습니다.
 
 <h3>Image List</h3>
-<span class="image fit"><img src="assets/images/rolls-royce.jpg" alt="" /></span>
+
 <div class="box alt">
 	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="assets/images/rolls-royce.jpg" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
 	</div>
 </div>
