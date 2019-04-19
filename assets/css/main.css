@@ -169,7 +169,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #ffffff;
+		color: #F0F8FF;
 		font-weight: 600;
 	}
 
@@ -3124,7 +3124,8 @@ input, select, textarea {
 				-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-				background-color: #ffffff;
+				border: #FFFFFF 2px;
+				border-style: solid;
 				color: #242943;
 				display: inline-block;
 				line-height: 1.65em;
