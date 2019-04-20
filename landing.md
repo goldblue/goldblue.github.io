@@ -21,7 +21,7 @@ nav-menu: true
 	</div>
 </section>
 
-<section id="one" class="spotlights">
+<section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/lam1.jpg" alt="" data-position="center center" />
@@ -39,19 +39,18 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-
-<section id="two" class="spotlights">
+</section>
     <section>
     	<a href="elements.html" class="image">
-    		<img src="assets/images/parrot.jpg" alt="" data-position="center center" />
+    		<img src="assets/images/parrot.jpg" alt="" data-position="top center" />
     	</a>
     	<div class="content">
     		<div class="inner">
     			<header class="major">
     				<h3>Parrots</h3>
     			</header>
-    			<p>저희 Gold Blue 의 ‘내 사랑 앵무새’ 는 다양한 종의 대형 앵무새를 직수입하고 분양합니다.  
-				유럽 및 동남아시아의 현지 농장과 제휴 관계를 맺고 합법적인 통관 절차를 진행하여 앵무새를 수입합니다. </p>
+    			<p>저희 Gold Blue 의 ‘내 사랑 앵무새’ 는 다양한 종의 대형 앵무새를 직수입하고 분양합니다.
+    			유럽 및 동남아시아의 현지 농장과 제휴 관계를 맺고 합법적인 통관 절차를 진행하여 앵무새를 수입합니다. </p>
     			<ul class="actions">
     				<li><a href="elements.html" class="button">더보기</a></li>
     			</ul>
