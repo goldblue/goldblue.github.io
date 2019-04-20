@@ -2,7 +2,7 @@
 title: About Gold Blue
 layout: post
 description: 회사소개
-image: assets/images/pic07.jpg
+image: assets/images/goldblue-coast.jpg
 nav-menu: true
 ---
 
