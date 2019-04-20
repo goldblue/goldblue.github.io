@@ -27,5 +27,8 @@ nav-menu: true
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="assets/images/rolls-royce.jpg" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/ferrari1.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/aventador1.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/lam1.jpg" alt="" /></span></div>
 	</div>
 </div>
