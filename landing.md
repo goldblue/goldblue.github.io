@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Gold Blue</h2>
 		</header>
 		<p>저희 Gold Blue 는 2018년을 시작으로 유럽과 동남 아시아의 농장으로부터 앵무새를 수입하고 분양하고 있으며,  
 		2020년부터는 유럽과 미국 등의 해외 자동차 브랜드 가운데 프리미엄 럭셔리 브랜드의 차량들을 현지 본사에서 직수입하고 판매하고 있습니다.  
