@@ -40,7 +40,7 @@ nav-menu: true
 		</div>
 	</section>
 
-<section id="two">
+<section id="two" class="spotlights">
     <section>
     	<a href="elements.html" class="image">
     		<img src="assets/images/parrot.jpg" alt="" data-position="center center" />
