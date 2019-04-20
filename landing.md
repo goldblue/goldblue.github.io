@@ -43,10 +43,7 @@ nav-menu: true
 
 <section id="two" class="spotlights">
     <section>
-    	<a href="elements.html" class="image">
-    		<img src="assets/images/parrot.jpg" alt="" data-position="top center" />
-    	</a>
-    	<div class="content">
+	    <div class="content">
     		<div class="inner">
     			<header class="major">
     				<h3>Parrots</h3>
@@ -58,5 +55,8 @@ nav-menu: true
     			</ul>
     		</div>
     	</div>
+    	<a href="elements.html" class="image">
+    		<img src="assets/images/parrot.jpg" alt="" data-position="center center" />
+    	</a>
     </section>
 </section>
